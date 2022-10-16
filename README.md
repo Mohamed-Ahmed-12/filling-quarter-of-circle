@@ -6,7 +6,7 @@ Filling Quarter of Cirlce after determine it by click (C++)
 1- open code blocks (because the program written in c++)<br>
 2- create New Project then choose **Win 32 GUI Project**<br>
 3- copy the code from [main.cpp](https://github.com/Mohamed-Ahmed-12/filling-quarter-of-circle/blob/main/main.cpp) that exists in github and paste it into your main.cpp in your project you created<br>
-4- the run your code and enjoy<br>
+4- then run your code and enjoy<br>
 
 ## Note
 you must click three times <br>
